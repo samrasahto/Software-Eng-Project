@@ -165,7 +165,7 @@ namespace MAIN_Form
                     cmd.Parameters.AddWithValue("@Contact", textBox6.Text);
                     cmd.Parameters.AddWithValue("@Address", textBox7.Text);
                     cmd.ExecuteNonQuery();
-                    string message = "The Product has been updated!";
+                    string message = "Your details have been updated!";
                     string title = "Success";
                     MessageBoxButtons buttons = MessageBoxButtons.OK;
                     DialogResult result = MessageBox.Show(message, title, buttons);
@@ -195,7 +195,7 @@ namespace MAIN_Form
                     cmd1.Parameters.AddWithValue("@Login_idLogin", idLogin);
                     cmd1.Parameters.AddWithValue("@password", textBox2.Text);
                     cmd1.ExecuteNonQuery();
-                    string message = "The Product has been updated!";
+                    string message = "Your details have been updated!";
                     string title = "Success";
                     MessageBoxButtons buttons = MessageBoxButtons.OK;
                     DialogResult result = MessageBox.Show(message, title, buttons);

@@ -283,5 +283,10 @@ namespace MAIN_Form
                 e.Handled = true;
             }
         }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

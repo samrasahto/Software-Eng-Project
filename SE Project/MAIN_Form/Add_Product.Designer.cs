@@ -46,16 +46,16 @@ namespace MAIN_Form
             this.comboBox1.Items.AddRange(new object[] {
             "Yes",
             "No"});
-            this.comboBox1.Location = new System.Drawing.Point(490, 354);
+            this.comboBox1.Location = new System.Drawing.Point(413, 332);
             this.comboBox1.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(316, 39);
+            this.comboBox1.Size = new System.Drawing.Size(412, 39);
             this.comboBox1.TabIndex = 61;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(335, 566);
+            this.textBox4.Location = new System.Drawing.Point(354, 618);
             this.textBox4.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(471, 38);
@@ -65,7 +65,7 @@ namespace MAIN_Form
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Bodoni MT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(31, 442);
+            this.label12.Location = new System.Drawing.Point(48, 466);
             this.label12.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(274, 47);
@@ -76,7 +76,7 @@ namespace MAIN_Form
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Bodoni MT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(31, 517);
+            this.label11.Location = new System.Drawing.Point(48, 610);
             this.label11.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(118, 47);
@@ -85,10 +85,10 @@ namespace MAIN_Form
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(132, 244);
+            this.textBox1.Location = new System.Drawing.Point(335, 177);
             this.textBox1.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(674, 38);
+            this.textBox1.Size = new System.Drawing.Size(490, 38);
             this.textBox1.TabIndex = 55;
             // 
             // label9
@@ -104,7 +104,7 @@ namespace MAIN_Form
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(335, 451);
+            this.textBox3.Location = new System.Drawing.Point(354, 474);
             this.textBox3.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(471, 38);
@@ -114,7 +114,7 @@ namespace MAIN_Form
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Bodoni MT", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(31, 346);
+            this.label2.Location = new System.Drawing.Point(48, 324);
             this.label2.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(281, 47);
@@ -123,7 +123,7 @@ namespace MAIN_Form
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(532, 618);
+            this.button1.Location = new System.Drawing.Point(625, 770);
             this.button1.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(200, 55);
